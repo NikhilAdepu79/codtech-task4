@@ -1,4 +1,5 @@
 #OPTIMIZATION MODEL
+
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: ADEPU NIKHIL
@@ -57,14 +58,21 @@ We aim to decide how many units of **Product A** and **Product B** to produce in
 1. **Install PuLP (if not installed)**:
 bash
 pip install pulp
+
 Open the notebook:
+
 Launch Jupyter Notebook and open:
+
 task4_optimization.ipynb
 
 
 #Sample Output:
 Optimization Result:
+
 Produce 0.0 units of Product A
+
 Produce 60.0 units of Product B
+
 Maximum Profit: $1800.0
+
 ⚠️ Consider rechecking constraints or resource usage to utilize both products.
